@@ -39,7 +39,7 @@ The U-Net model successfully identifies the landslide-affected regions from sate
 
 The graph below shows the progression of model performance over multiple epochs. Metrics such as accuracy, IoU, and F1-score demonstrate convergence and generalization.
 
-![Training Metrics](outputs/metrics_graph.png)
+![Training Metrics](outputs/metrics_graphs.png)
 
 This trend indicates consistent model improvement and minimal overfitting throughout training.
 
